@@ -32,6 +32,37 @@ Types of API
 
 ![image_alt](https://github.com/anumhub/API-Testing----POSTMAN/blob/7eae5b029725dabdf7818c0f6b96b7ae758f2f43/Screenshot%202025-06-10%20at%203.09.57%20PM.png)
 
-   
+
+
+HTTPS REQUEST:
+
+GET- to retrieve the data from DB 
+POST - Create Data
+PUT- Update Data
+DELETE- remove data
+
+HTTP RESPONSE:
+200 - OK
+201- CREATED
+
+
+URI- uniform resource identifier (URI)
+for example - google.com
+
+URL(uniform resource locator)- https://google.com 
+for file transfer - 
+
+URN- uniform resource name
+
+URL components:
+
+1. Protocol- https, http, ftp
+2. Domain- \\www.google.com
+3. Path- \\www.google.com\product\productname
+4. Query - \\www.google.com?bing
+
+
+
+
 
 
