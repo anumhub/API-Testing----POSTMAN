@@ -30,7 +30,7 @@ Types of API
 
    Difference between Soap and Rest API
 
-![image_alt(https://github.com/anumhub/API-Testing----POSTMAN/blob/7eae5b029725dabdf7818c0f6b96b7ae758f2f43/Screenshot%202025-06-10%20at%203.09.57%20PM.png)
+![image_alt](https://github.com/anumhub/API-Testing----POSTMAN/blob/7eae5b029725dabdf7818c0f6b96b7ae758f2f43/Screenshot%202025-06-10%20at%203.09.57%20PM.png)
 
    
 
