@@ -10,4 +10,23 @@ API- Application programming interface - to communicate 2 different applications
 
 ![image_alt](https://github.com/anumhub/API-Testing----POSTMAN/blob/2b2262bc4deab3d3302d7a153afd5c9e39db7d5a/Screenshot%202025-06-10%20at%2012.53.40%20PM.png)
 
+Types of API 
+
+1. Simple Object Access Protocol (SOAP)- old 
+2. Representational State Transfer(REST)- used in companies  -->  These are both Web Services
+
+   API Vs Web Services
+
+   when API are developed and tested and then goes to production using internet - that is web services
+   No network connection is needed for API testing | Web Services need network connection 
+   
+
+   All API's are not webservices
+   All web services are API's
+
+   API Testing Tool 
+
+   Postman tool for manual testing
+   
+
 
