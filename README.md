@@ -61,6 +61,7 @@ URL components:
 3. Path- \\www.google.com\product\productname
 4. Query - \\www.google.com?bing
 
+![image_alt](https://github.com/anumhub/API-Testing----POSTMAN/blob/8c476b339c20efa164f7b7a75b8176da26eac41e/Screenshot%202025-06-10%20at%204.55.48%20PM.png)
 
 
 
